@@ -10,3 +10,5 @@ It should be noted that while this project is designed to write recomendations f
 A more complete document will be avalible soon.
 
 Live discussion is currently avalible on Discord due to a current lack of a alternative. https://discord.gg/X5fMD77UsK
+
+This project is not affiliated with Project 2025, Project 2028, Project 2029, or any other project currently in development.
